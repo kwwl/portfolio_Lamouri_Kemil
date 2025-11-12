@@ -25,7 +25,7 @@ function Projects() {
       technologies: ["Python", "Pandas", "Matplotlib", "Seaborn", "Jupyter"],
       image:
         "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=800",
-      pdfLink: "assets/amazon_prime.pdf",
+      pdfLink: "amazon_prime.pdf",
       category: "fullstack",
     },
     {
@@ -36,7 +36,7 @@ function Projects() {
       technologies: ["Power BI", "SQL", "DAX", "Python"],
       image:
         "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
-      pdfLink: "assets/Dashboard.pdf",
+      pdfLink: "Dashboard.pdf",
       category: "web",
     },
     {
